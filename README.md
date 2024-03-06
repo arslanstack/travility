@@ -1,3 +1,3 @@
-# Travility - A Next JS based Travel Utility Website Landing Page
+# Travility - A Next based Travel Utility Landing Page
 
 ![Travility](webpage.png)
